@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=Usuario(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Usuario\r\n
+comment1.params=comida\ gramos
+comment1.target=void\ comer(Alimento,\ float)
+comment1.text=\r\n\ Sumamos\ lo\ ingerido\ al\ usuario\r\n
+comment2.params=
+comment2.target=void\ estadoComidaIngerida()
+comment2.text=\r\n\ Mostramos\ por\ pantalla\ lo\ que\ el\ usuario\ lleva\ ingerido\r\n
+comment3.params=compararCon
+comment3.target=void\ compararCalorias(Usuario)
+comment3.text=\r\n\ Comparamos\ entre\ dos\ usuarios\ quien\ ha\ comido\ mas\ calorias\ y\ lo\ mostramos\ por\ pantalla\r\n
+comment4.params=
+comment4.target=void\ alimentoMasCaloricoIngerido()
+comment4.text=\r\n\ Muestra\ por\ pantalla\ cual\ es\ el\ metodo\ mas\ calorico\ ingerido.\r\n
+comment5.params=index
+comment5.target=void\ verAlimentoIngerido(int)
+comment5.text=\r\n\ Creo\ metodo\ para\ visualizar\ el\ alimento\ que\ indique\ el\ usuario\r\n
+comment6.params=
+comment6.target=java.lang.String\ nombre()
+comment6.text=\r\n\ Devuelve\ el\ nombre\ del\ Usuario\r\n
+comment7.params=
+comment7.target=float\ caloria()
+comment7.text=\r\n\ Devuelve\ las\ calorias\ del\ usuario\r\n
+numComments=8

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Test()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Test\r\n
+comment1.params=
+comment1.target=void\ multiplesOfFive()
+comment1.text=\r\n\ Metodo\ que\ te\ indica\ los\ multiplos\ de\ 5\ entre\ 10\ y\ 95\ ambos\ no\ incluidos.\r\n
+comment2.params=
+comment2.target=void\ sumValue()
+comment2.text=\r\n\ Metodo\ que\ suma\ los\ valores\ del\ 0\ al\ 10\ ambos\ incluidos\r\n
+comment3.params=a\ b
+comment3.target=void\ sumValueInternal(int,\ int)
+comment3.text=\r\n\ Metodo\ que\ suma\ los\ valores\ comprendidos\ entre\ a\ y\ b\r\n
+comment4.params=n
+comment4.target=boolean\ isPrime(int)
+comment4.text=\r\n\ Metodo\ que\ comprueba\ si\ es\ primario\r\n
+numComments=5
