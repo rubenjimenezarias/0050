@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Test0050()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Test0050\r\n
+comment1.params=a\ b
+comment1.target=int\ multiplicaciones(int,\ int)
+comment1.text=\r\n\ Multiplicacion\r\n
+comment2.params=dividendo\ divisor
+comment2.target=int\ division(int,\ int)
+comment2.text=\r\n\ Division\r\n
+comment3.params=numero\ modulo
+comment3.target=int\ modulo(int,\ int)
+comment3.text=\r\n\ Modulo\r\n
+comment4.params=numero\ potencia
+comment4.target=int\ potencia(int,\ int)
+comment4.text=\r\n\ Potencia\r\n
+comment5.params=numero
+comment5.target=int\ raiz(int)
+comment5.text=\r\n\ Raiz\ cuadrada\r\n
+numComments=6
